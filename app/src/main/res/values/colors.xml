@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name ="mag1">#4A7BA7</color>
+    <color name ="mag2">#04B4B3</color>
+    <color name ="mag3">#10CAC9</color>
+    <color name ="mag4">#F5A623</color>
+    <color name ="mag5">#FF7D50</color>
+    <color name ="mag6">#FC6644</color>
+    <color name ="mag7">#E75F40</color>
+    <color name ="mag8">#E13A20</color>
+    <color name ="mag9">#D93218</color>
+    <color name ="mag10">#C03823</color>
+
+</resources>
